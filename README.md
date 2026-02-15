@@ -1,4 +1,4 @@
-# PUbench
+# PUBench
 
 Positive-Unlabeled (PU) learning benchmark code. This repository contains runnable code for training, sweeping, and collecting results for the paper.
 
