@@ -2,6 +2,11 @@
 
 Positive-Unlabeled (PU) learning benchmark code. This repository contains runnable code for training, sweeping, and collecting results for the paper.
 
+> **Paper**: [Accessible, Realistic, and Fair Evaluation of Positive-Unlabeled Learning Algorithms](https://openreview.net/forum?id=5R11h5o44C) (ICLR 2026)
+>
+> **Related Work**: [PU-Bench: A Unified Benchmark for Rigorous and Reproducible PU Learning](https://openreview.net/forum?id=tb8DabMbMq) (ICLR 2026) is a concurrent PU learning benchmark covering 19 methods across 9 datasets with a YAML-based configuration system. The two benchmarks are complementary in scope and design. See [XiXiphus/PU-Bench](https://github.com/XiXiphus/PU-Bench).
+
+
 ## Requirements
 
 - Python 3.10
